@@ -9,3 +9,4 @@ in the correct way. At the moment it is in the form of some rough notes but ulti
 For 'Ruby' I am including 'Rails' and for 'Python' I am including 'Django'.
 
 * [Method delegation](method_delegation.md)
+* [Templated HTML pages](templated_html_pages.md)
