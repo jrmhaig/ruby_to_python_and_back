@@ -11,3 +11,4 @@ For 'Ruby' I am including 'Rails' and for 'Python' I am including 'Django'.
 * [Method delegation](method_delegation.md)
 * [Templated HTML pages](templated_html_pages.md)
 * [Memoization](memoization.md)
+* [Hash tables](hash_tables.md)
