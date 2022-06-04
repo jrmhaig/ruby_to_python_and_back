@@ -40,7 +40,7 @@ render :template_to_render
 
 To embed code to a template;
 
-* `{% %}` for a structural element
+* `{{ '{%' }} %}` for a structural element
 * `{{ }}` for a value to be included in the HTML
 
 ```python
@@ -67,7 +67,7 @@ return render(
 <ul>
   {% for row in some_data %}
     <li>The key is {{ row.key }} and the value is {{ row.value }}</li>
-  <% endfor %>
+  {% endfor %}
 </ul>
 ```
 
